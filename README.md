@@ -1,1 +1,1 @@
-# reverse-engineering-demo
+# Code Obfuscation against Static and Dynamic Reverse Engineering
